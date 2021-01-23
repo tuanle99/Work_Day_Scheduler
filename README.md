@@ -19,6 +19,6 @@
   - Red: Current time
   - Green: Future time
 
-![Work_Day_Scheduler]("./Assets/images/time_change.PNG")
+![Scheduler Change]("./Assets/images/time_change.PNG")
 
 As the hour change, the scheduler will shift
