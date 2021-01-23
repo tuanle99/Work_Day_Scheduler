@@ -1,4 +1,4 @@
-# Work_Day_Scheduler
+# Work Day Scheduler
 
 ![Work Day Scheduler1]("./Assets/images/schedule_1.PNG")
 ![Work Day Scheduler2]("./Assets/images/schedule_2.PNG")
