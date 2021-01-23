@@ -2,8 +2,8 @@
 
 Work Day Scheduler
 
-![Work Day Scheduler1](./assets/images/schedule1.PNG)
-![Work Day Scheduler2](./assets/images/schedule2.PNG)
+![Work Day Scheduler1](./Assets/images/schedule1.PNG)
+![Work Day Scheduler2](./Assets/images/schedule2.PNG)
 
 ### Work Day Scheduler
 
@@ -21,6 +21,6 @@ Work Day Scheduler
   - Red: Current time
   - Green: Future time
 
-![Schedule Time Change](./assets/images/time_change.PNG)
+![Schedule Time Change](./Assets/images/time_change.PNG)
 
 As the hour change, the scheduler will shift
