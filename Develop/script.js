@@ -3,7 +3,8 @@ $(document).ready(function () {
     "<h1>" + dayjs().format("dddd, MMMM D, YYYY h:mm A") + "</h1>"
   );
 
-  var current_time = dayjs().get("hour");
+  // var current_time = dayjs().get("hour");
+  var current_time = 11;
   var time_counter = current_time - 3;
   var am_pm;
   var ppf = 0;
