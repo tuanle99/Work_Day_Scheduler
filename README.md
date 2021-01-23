@@ -1,6 +1,6 @@
 # Work_Day_Scheduler
 
-![Work_Day_Scheduler]("./Assets/images/schedule_1.PNG")
+![Work_Day_Scheduler]("Assets/images/schedule_1.PNG")
 ![Work_Day_Scheduler]("./Assets/images/schedule_2.PNG")
 
 ### Work Day Scheduler
